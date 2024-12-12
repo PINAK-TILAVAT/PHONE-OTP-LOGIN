@@ -1,1 +1,2 @@
-![Watch the video]("project.webm")
+![My Cool GIF](project.gif)
+
